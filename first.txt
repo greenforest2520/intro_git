@@ -1,3 +1,6 @@
 gitの練習をします
 
 aaaa
+
+.git add
+.git commit
